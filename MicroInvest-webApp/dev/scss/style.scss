@@ -1,0 +1,56 @@
+$primary: #006699;
+
+h2 {
+	color: $primary;
+}
+
+.navbar-header {
+  button {
+    font-weight : bold;
+    font-size   : 16px;
+  }
+  .btn.active, .btn:active {
+    background : #0099cc;
+    color      : #ffffff;
+  }
+}
+
+.userForm {
+  margin-left: 50px;
+
+  #saveUser {
+    float: right;
+  }
+
+  input.form-control {
+    margin-bottom : 20px;
+    display       : block;
+  }
+
+}
+
+.companyForm {
+  #saveCompany {
+    float        : right;
+    margin-right : 15px;
+  }
+}
+
+.invoiceForm {
+  .form-group.col-md-4{
+    padding       : 10px;
+    height        : 200px;
+    border        : 2px solid lightgrey;
+    border-radius : 7px;
+  }
+  #addPartner {
+    margin-left : 75px;
+    margin-top  : 20px;
+  }
+  #saveInvoice {
+    float: right;
+  }
+}
+
+
+

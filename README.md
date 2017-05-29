@@ -20,3 +20,10 @@ Course project repository for MMT-2017
   * Express.js
   * Mongoose
 
+
+
+//TODOS :
+
+* Add a responsive graphic with data from the invoiceses, and maybe a video.
+* Create Companies and Invoices, with Rest calls and mongo dbs.
+* Make the website accessable on a public domain.
